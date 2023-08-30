@@ -81,3 +81,5 @@ analytics: 'carpentries'
 lang: 'en'
 workbench-beta: true
 overview: true
+sandpaper: 'carpentries/sandpaper#496'
+varnish: 'carpentries/varnish#87'
